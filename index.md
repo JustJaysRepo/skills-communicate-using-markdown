@@ -11,3 +11,6 @@
 ###### H6 Header
 
 added some header markdowns, so  **COOL**
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
